@@ -12,10 +12,11 @@ It also provides:
 
 ---
 
-## 📁 Input
-See Notebook and run it with python installed. 
+## 🖥️ Usage
 
-Travel data is currently hardcoded as a list of tuples:
+1. Make sure you have **Python 3.7+** installed.
+2. Open the [irl_180_day_check.ipynb](Notebook).
+3. Write in your travel data as a list of tuples:
 
 ```python
 data = [
@@ -25,9 +26,9 @@ data = [
 ]
 ```
 
-Each entry represents a period **spent abroad**, and the script will calculate all relevant metrics and checks from these dates.
+Each entry represents a period **spent abroad**, and the script will calculate all relevant metrics and checks from these dates. 
 
----
+4. Run the notebook script.
 
 ## ✅ Features
 
@@ -39,23 +40,6 @@ Each entry represents a period **spent abroad**, and the script will calculate a
   - Max and average trip duration
 - **Visualization**:
   - Matplotlib graph showing home-day count for every rolling 365-day window.
-
----
-
-## 🖥️ Usage
-
-1. Make sure you have **Python 3.7+** installed.
-2. Install the required library:
-
-```bash
-pip install pandas matplotlib
-```
-
-3. Run the script:
-
-```bash
-python residency_checker.py
-```
 
 ---
 
