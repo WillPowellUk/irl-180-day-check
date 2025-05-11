@@ -8,7 +8,7 @@ This script verifies whether, in **any rolling 365-day period**, you've spent:
 
 It also provides:
 - 📊 Summary statistics on your travel.
-- 📈 A line graph showing "Days at Home" across all 365-day periods.
+- 📈 A line graph showing "Days in UK" across all 365-day periods.
 
 ---
 
@@ -39,7 +39,7 @@ Each entry represents a period **spent abroad**, and the script will calculate a
   - Total days abroad
   - Max and average trip duration
 - **Visualization**:
-  - Matplotlib graph showing home-day count for every rolling 365-day window.
+  - Matplotlib graph showing UK-day count for every rolling 365-day window.
 
 ---
 
