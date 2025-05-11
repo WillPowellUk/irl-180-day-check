@@ -1,5 +1,5 @@
 
-# 🇬🇧 365-Day Residency Compliance Checker
+# 🇬🇧 365-Day UK 180 Day  Indefinite Leave to Remain Compliance Checker
 
 This script verifies whether, in **any rolling 365-day period**, you've spent:
 
@@ -13,6 +13,7 @@ It also provides:
 ---
 
 ## 📁 Input
+See Notebook and run it with python installed. 
 
 Travel data is currently hardcoded as a list of tuples:
 
