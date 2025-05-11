@@ -32,7 +32,7 @@ Each entry represents a period **spent abroad**, and the script will calculate a
 
 ## ✅ Features
 
-- **Compliance Check**: Confirms 180+ home days in all 365-day windows.
+- **Compliance Check**: Confirms 180+ UK days in all 365-day windows.
 - **Warning Flag**: Detects windows with 150+ days abroad.
 - **Statistics**:
   - Total periods abroad
@@ -53,6 +53,6 @@ Displays:
 
 ### Graph
 Visualizes:
-- "Days at home" in each 365-day period
+- "Days in UK" in each 365-day period
 - Red dashed line at 180 days (legal minimum)
 - Orange dotted line at 215 days (150 days abroad threshold)
